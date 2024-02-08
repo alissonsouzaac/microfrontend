@@ -1,0 +1,14 @@
+{
+    "name": "microfrontend-project",
+    "version": "1.0.0",
+    "description": "Projeto de exemplo de microfrontend",
+    "scripts": {
+      "start": "cd microfrontend-parent && npm start",
+      "build": "cd microfrontend-parent && npm run build"
+    },
+    "dependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2"
+    }
+  }
+  
